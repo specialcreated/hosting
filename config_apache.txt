@@ -1,6 +1,6 @@
 <VirtualHost *:80>
-	ServerAdmin hosting-rus@mail.ru
-	ServerName domain.ru
+	ServerAdmin turzanov15@gmail.com
+	ServerName v2385836.hosted-by-vdsina.ru
 	DocumentRoot /var/www/
 	<Directory /var/www/>
 		Options Indexes FollowSymLinks
